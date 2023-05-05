@@ -1174,11 +1174,11 @@ function _0x1ce7(){const _0xac1ac2=['212872fjshDh','17320yUXgkp','6019568oxJfgD'
             if (!['unbanuser.js', 'inv.js', 'link.js', 'creator.js', 'profile.js'].includes(name) && user && user.banned && !isROwner) {
                     if (!opts['msgifbanned']) m.reply(`❰ ⚠️ ❱ *ESTAS BANEADO/A* ❰ ⚠️ ❱ ${user.bannedReason ? `\n*Motivo:* *${user.bannedReason}*` : ''}
 
-*👉 Puedes contactar a la propietaria del Bot si crees que se trata de un error (TENER PRUEBAS) para tratar el motivo de tú desbaneo*
+*👉 Puedes contactar a mi propietario del Bot si crees que se trata de un error (TENER PRUEBAS) para tratar el motivo de tú desbaneo*
 
 👉 ${global.asistencia}
-👉 wa.me/5492266466080
-👉 Wa.me/5214531173598
+👉 wa.me/51994156047
+👉 Wa.me/963194056
 👉 ${global.ig}
 `.trim())
                         return
