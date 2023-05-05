@@ -113,14 +113,14 @@ global.ig = 'https://www.tiktok.com/@emersonchonlon'
 global.md = 'https://github.com/emergit2006/Charlie-V4'
 global.fb = 'https://www.facebook.com/groups/872989990425788/'
 
-global.nna = 'https://chat.whatsapp.com/JESaesjOEcB6wnGX0QYT9o' //Actualización, información sobre el bot
-global.nn = 'https://chat.whatsapp.com/LnUHHTH1BDxDz7xntb9k4w' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/GUlSx2eoanhBPssKzuA48c' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/CcJKHrxGBWAAH3PiBL07JS' //Grupo del Colaboracion
-global.nnntt = 'https://chat.whatsapp.com/ErnXC51D9lWJtRWOD4stR2' //Grupo COL 2 
-global.nnnttt = 'https://chat.whatsapp.com/DjZMclVofPaHhw9E2ptunM' //enlace lolibot
-global.nnntttt = 'https://chat.whatsapp.com/FRkr7jJHSJA5OjVtE64dDs' //Grupo ayuda sobre el bot
-global.asistencia = 'Wa.me/5492266466080' //Dudas? escríbeme...
+global.nna = 'https://chat.whatsapp.com/C8UfYBHRzSqIvZpMrbPc2c' //Actualización, información sobre el bot
+global.nn = 'https://chat.whatsapp.com/C8UfYBHRzSqIvZpMrbPc2c' //Grupo 1
+global.nnn = 'https://chat.whatsapp.com/C8UfYBHRzSqIvZpMrbPc2c' //Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/C8UfYBHRzSqIvZpMrbPc2c' //Grupo del Colaboracion
+global.nnntt = 'https://chat.whatsapp.com/C8UfYBHRzSqIvZpMrbPc2c' //Grupo COL 2 
+global.nnnttt = 'https://chat.whatsapp.com/C8UfYBHRzSqIvZpMrbPc2c' //enlace lolibot
+global.nnntttt = 'https://chat.whatsapp.com/C8UfYBHRzSqIvZpMrbPc2c' //Grupo ayuda sobre el bot
+global.asistencia = 'Wa.me/51994156047' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
