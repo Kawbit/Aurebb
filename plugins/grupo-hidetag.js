@@ -11,7 +11,7 @@ await conn.relayMessage(m.chat, msg.message, { messageId: msg.key.id })
 } catch {  
 
 /**
-[ By @NeKosmic || https://github.com/NeKosmic/ ]
+[ By @NeKosmic || https://github.com/Emergit2006/ ]
 **/  
     
 let users = participants.map(u => conn.decodeJid(u.id))
@@ -34,7 +34,7 @@ conn.sendMessage(m.chat, { audio: mediax, mentions: users, mimetype: 'audio/mp4'
 var mediax = await quoted.download?.()
 conn.sendMessage(m.chat, {sticker: mediax, mentions: users}, { quoted: m })
 } else {
-await conn.relayMessage(m.chat, {extendedTextMessage:{text: `${masss}\n${htextos}\n`, ...{ contextInfo: { mentionedJid: users, externalAdReply: { thumbnail: imagen1, sourceUrl: 'https://github.com/elrebelde21/The-LoliBot-MD' }}}}}, {})
+await conn.relayMessage(m.chat, {extendedTextMessage:{text: `${masss}\n${htextos}\n`, ...{ contextInfo: { mentionedJid: users, externalAdReply: { thumbnail: imagen1, sourceUrl: 'https://github.com/Emergit2006/Charlie-V4' }}}}}, {})
 }}}
 handler.command = /^(hidetag|notificar|notify)$/i
 handler.group = true
