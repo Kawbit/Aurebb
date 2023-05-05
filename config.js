@@ -12,22 +12,22 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a ⋅.━━━━ ⊰  
 
 global.owner = [
-  ['5492266613038', '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿', true],
-  ['573183650526', '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿', true],
-  ['593968585383'],
-  ['972529277518'], 
-  ['5214531173598'],
-  ['59894808483'],
-  ['595992302861'],
-  ['51957041866'],
-//['5492266466080'],
-  ['5214531106422']
+  ['51994156047', '𝐂𝐇𝐀𝐑𝐋𝐈𝐄-𝐕𝟒', true],
+  ['51994156047', '𝐂𝐇𝐀𝐑𝐋𝐈𝐄-𝐕𝟒', true],
+  ['51994156047'],
+  ['51994156047'], 
+  ['51994156047'],
+  ['51963194056'],
+  ['51963194056'],
+  ['56922050365'],
+//['51994156047'],
+  ['56922050365']
 ]
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.mods = ['50495745934'] 
-global.prems = ['972529277314'],  
+global.mods = ['51994156047'] 
+global.prems = ['56922050365'],  
    
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
@@ -102,16 +102,16 @@ global.moment = moment
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
 global.packname = '𝙏𝙤𝙢𝙖 𝙩𝙪 𝙨𝙩𝙞𝙘𝙠𝙚𝙧'
-global.author = '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿'
+global.author = '𝐂𝐇𝐀𝐑𝐋𝐈𝐄-𝐕𝟒'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.vs = '1.4.5'
-global.lb = '𝙏𝙝𝙚 𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿'
-global.yt = 'https://www.youtube.com/@TheLoliBot-MD'
-global.ig = 'https://www.tiktok.com/@thelolibot_md'
-global.md = 'https://github.com/elrebelde21/The-LoliBot-MD'
-global.fb = 'https://www.facebook.com/groups/872989990425789/'
+global.lb = '𝐂𝐇𝐀𝐑𝐋𝐈𝐄-𝐕𝟒'
+global.yt = 'https://www.youtube.com/@emerson'
+global.ig = 'https://www.tiktok.com/@emersonchonlon'
+global.md = 'https://github.com/emergit2006/Charlie-V4'
+global.fb = 'https://www.facebook.com/groups/872989990425788/'
 
 global.nna = 'https://chat.whatsapp.com/JESaesjOEcB6wnGX0QYT9o' //Actualización, información sobre el bot
 global.nn = 'https://chat.whatsapp.com/LnUHHTH1BDxDz7xntb9k4w' //Grupo 1
@@ -148,13 +148,13 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información ⋅.━━━━ ⊰
 
-global.wm = '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
-global.igfg = '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
+global.wm = '𝐂𝐇𝐀𝐑𝐋𝐈𝐄-𝐕𝟒'
+global.igfg = '𝐂𝐇𝐀𝐑𝐋𝐈𝐄-𝐕𝟒'
 global.wait = '*⌛ _Cargando..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando..._ ▬▬▬▬▭▭*'
 global.waitttt = '*⌛ _Cargando..._ ▬▬▬▬▬▬▭*'
-global.nomorown = '5492266466080'
+global.nomorown = '51994156047'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
