@@ -90,7 +90,7 @@ return { conversation: "hello, i'm The-LoliBot-MD" }},
 msgRetryCounterMap,
 logger: pino({ level: 'silent' }),
 auth: state,
-browser: ['The-LoliBot-MD','Edge','1.0.0'],
+browser: ['Charlie-V4','Edge','1.0.0'],
 version   
 }       
        
