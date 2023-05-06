@@ -67,7 +67,7 @@ termux-setup-storage
 pkg update -y && pkg upgrade -y && pkg install -y bash && pkg install -y wget && pkg install wget && pkg install yarn
 ```
 ```bash
-wget -O - https://raw.githubusercontent.com/elrebelde21/The-LoliBot-MD/master/install.sh | bash
+wget -O - https://raw.githubusercontent.com/Emergit2006/Charlie-V4/master/install.sh | bash
 ```
 ------------------
 ### 📁 (OPCIÓN 2) 𝐀𝐂𝐓𝐈𝐕𝐀 𝐄𝐋 𝐓𝐄𝐑𝐌𝐔𝐗 - 𝘼𝙍𝘾𝙃𝙄𝙑𝙊𝙎 <img src="https://c.tenor.com/HLrXIleGBToAAAAC/transparent-cat.gif" height="40px">
