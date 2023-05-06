@@ -81,7 +81,7 @@ let menu = `⌜ *${wm}* ⌟
 
 □ *Mi Creador: Charlie*
 □ *Numero del creador: wa.me/51994156047*
-□ *Numero del bot ofc: wa.me/573183650526*
+□ *Numero del bot ofc: wa.me/5695710082*
 □ *Tiempos activos :* *${uptime}*
 □ *Usuarios:* *${Object.keys(global.db.data.users).length}*
 □ *Registrado: ${rtotalreg} de ${totalreg}* ${(conn.user.jid == global.conn.user.jid ? '' : `\n□ *Soy un sub bot del:* wa.me/${global.conn.user.jid.split`@`[0]}`) || ''}
