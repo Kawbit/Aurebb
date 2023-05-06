@@ -33,12 +33,12 @@ await conn.sendButton(m.chat, ``, `https://paypal.me/OficialGD`, pp, [['𝙑𝙤
 *┃* *COLABORAR CONMG*
 *┃* *AGRADECER A*
 *┃* ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-*┃* * COLABORADORA DEL BOT NATI*
-*┃* **
+*┃* *COLABORADORA DEL BOT NATI*
+*┃* *http://Wa.me/51963194056*
 *┃* ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-*┃* *ɢᴀᴛᴀʙᴏᴛ-ᴍᴅ*
-*┃* *https://github.com/GataNina-Li/GataBot-MD*
-*┃* *ɢʀᴀᴄɪᴀs!!!*
+*┃* *BOT INSPIRADO EN*
+*┃* *Camila <3*
+*┃* *NO DUDES EN ESCRIBIRME PARA AGRADECER POR EL APOYO*
 *┗ ┅ ━━━━━━━━━ ┅ ━*`, `https://paypal.me/OficialGD`, pp, [['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ ☘️', `/menu`]], m) //[['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ ☘️', `/menu`]]
 /*await conn.sendHydrated(m.chat, str, wm, media, 'https://github.com/elrebelde21/The-LoliBot-MD', 'ɢɪᴛʜᴜʙ', null, null, [
 ['𝙂𝙧𝙪𝙥𝙤𝙨 𝙊𝙛𝙞𝙘𝙞𝙖𝙡𝙚𝙨 🔰', '.grupos'],
