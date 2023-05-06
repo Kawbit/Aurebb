@@ -24,16 +24,16 @@ Hola 👋🏻, Bienvenido a los grupos oficiales, te invito a unete a los grupos
 Grupos De ventas y spam por bot
 
 *Grupos de spam por bot*
-https://chat.whatsapp.com/JZaD3sfNoVW4JvaoQ4uVwF
+https://chat.whatsapp.com/J8UFc7kWbzi7m63xkqTwHn
 
-*꧁⃢⃟҉💫🌺ঔঔ𝔼ℕ𝕃𝔸ℂ𝔼𝕊 𝕃𝔸 𝕁𝔼𝔽𝔸✨*
-https://chat.whatsapp.com/JegOp8NUSMd0vn75s4hkaj
+*Grupos de ventas de bot*
+https://chat.whatsapp.com/C8UfYBHRzSqIvZpMrbPc2c
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 
 Si quieres que tu grupo aparezca aca habla con mi creador
 `.trim() 
 
-conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '𝙏𝙝𝙚-𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿', 'status@broadcast')
+conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '𝐂𝐇𝐀𝐑𝐋𝐈𝐄-𝐕𝟒', 'status@broadcast')
 }
 handler.command = /^linkgc|grupos|gruposgatabot|gatabotgrupos|gruposdegatabot|groupofc|gruposgb|grupogb|groupgb$/i
 
