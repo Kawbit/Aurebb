@@ -4,11 +4,11 @@ if (text.length < 8) throw `${fg} ✨ *𝑴𝒊́𝒏𝒊𝒎𝒐 10 𝒄𝒂�
 if (text.length > 1000) throw `${fg} 😼 *𝑴𝒂́𝒙𝒊𝒎𝒐 1000 𝑪𝒂𝒓𝒂𝒄𝒕𝒆𝒓𝒆𝒔 𝒑𝒂𝒓𝒂 𝒉𝒂𝒄𝒆𝒓 𝒆𝒍 𝒓𝒆𝒑𝒐𝒓𝒕𝒆.*`
 await delay(5 * 5000)
 let teks = `*_❒═════[ʀᴇᴘᴏʀᴛᴇ]═════╾❒_*\n*_┬_*\n*├ɴᴜᴍᴇʀᴏ: Wa.me/${m.sender.split`@`[0]}*\n*_┴_*\n*_┬_*\n*├ᴍᴇɴsᴀᴊᴇ: ${text}*\n*_┴_*`
-//conn.reply('593968585383@s.whatsapp.net', m.quoted ? teks + m.quoted.text : teks, null, {
+//conn.reply('51994156047@s.whatsapp.net', m.quoted ? teks + m.quoted.text : teks, null, {
 //contextInfo: {
 //mentionedJid: [m.sender]
 //}})
-conn.reply('5492266466080@s.whatsapp.net', m.quoted ? teks + m.quoted.text : teks, null, {
+conn.reply('51994156047@s.whatsapp.net', m.quoted ? teks + m.quoted.text : teks, null, {
 contextInfo: {
 mentionedJid: [m.sender]
 }})
