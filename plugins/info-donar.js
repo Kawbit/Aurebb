@@ -7,8 +7,8 @@ await conn.sendButton(m.chat, ``, `https://paypal.me/OficialGD`, pp, [['𝙑𝙤
   */
  await conn.sendButton(m.chat, `*┏ ┅ ━━━━━━━━━ ┅ ━*
 *┇💖 𝙃𝙤𝙡𝙖!!*
-*┇ BUENAS LE SALUDA EL CREADOR DEL BOT*
-*┇ SI USTEDES GUSTAN COLABORAR*
+*┇ BUENAS LE SALUDA CHARLIE CREADOR DEL BOT*
+*┇ SI USTEDES GUSTAN APOYARME*
 *┇ SE LES AGRADECE USTEDES DEN*
 *┇ DE QUE NAZCA DE USTEDES .*
 *┇ IGUAL SE LES AGRADECE POR SU APOYO*
@@ -16,25 +16,25 @@ await conn.sendButton(m.chat, ``, `https://paypal.me/OficialGD`, pp, [['𝙑𝙤
 *┇ BY CHARLIE <3*
 *┇ ESTAS SON LAS SIGUIENTE FORMAS Q ME PUEDEN APOYAR*
 *┃* ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-*┃* *YAPE *
-*┃*  **
+*┃* *YAPE*
+*┃*  *+51 917 631 563*
 *┃* ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-*┃*  *ɢɪᴛʜᴜʙ 🌟*
-*┃*  *${md}*
+*┃*  *UN NÚMERO PARA EL BOT HABLAR A*
+*┃*  *http://Wa.me/51994156047*
 *┃* ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-*┃*  *ᴛɪᴋᴛᴏᴋ* 
-*┃*  *${ig}*
+*┃*  *GRUPO DE VENTA DE BOTS* 
+*┃*  *https://chat.whatsapp.com/C8UfYBHRzSqIvZpMrbPc2c*
 *┃* ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-*┃*   *ғᴀᴄᴇʙᴏᴏᴋ*
-*┃* *https://facebook.com/groups/872989990425789/*
+*┃*   *IG DEL CREADOR DEL BOT*
+*┃* *@emx._xit*
 *┃* ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-*┃*  *ᴀɢʀᴀᴄɪᴍɪᴇɴᴛᴏs:*
-*┃* *ᴛʜᴇ-ʟᴏʟɪʙᴏᴛ-ᴍᴅ ᴛɪᴇɴᴇ ғᴜɴᴄɪᴏɴᴇs ǫᴜᴇ ᴘᴇʀᴛᴇɴᴇᴢᴄᴀɴ*
-*┃* *ᴀ ʟᴀs sɪɢᴜᴇɴᴛᴇs ᴇᴍᴘʀᴇsᴀ(s)|ᴏʀɢᴀɴɪᴢᴀᴄɪᴏɴ(ᴇs)*
-*┃* *ᴘᴇʀsᴏɴᴀ(s):*
+*┃*  *AGRADECERA A LAS*
+*┃* *SIGUIENTE PERDONAS POR*
+*┃* *COLABORAR CONMG*
+*┃* *AGRADECER A*
 *┃* ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-*┃* *ᴛʜᴇᴍʏsᴛɪᴄ-ʙᴏᴛ-ᴍᴅ*
-*┃* *https://github.com/BrunoSobrino*
+*┃* * COLABORADORA DEL BOT NATI*
+*┃* **
 *┃* ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 *┃* *ɢᴀᴛᴀʙᴏᴛ-ᴍᴅ*
 *┃* *https://github.com/GataNina-Li/GataBot-MD*
