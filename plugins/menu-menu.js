@@ -79,15 +79,15 @@ let menu = `⌜ *${wm}* ⌟
 
 *Hola ${username}*
 
-□ *Creador: Mario*
-□ *Numero del creador: wa.me/5492266466080*
+□ *Mi Creador: Charlie*
+□ *Numero del creador: wa.me/51994156047*
 □ *Numero del bot ofc: wa.me/573183650526*
 □ *Tiempos activos :* *${uptime}*
 □ *Usuarios:* *${Object.keys(global.db.data.users).length}*
 □ *Registrado: ${rtotalreg} de ${totalreg}* ${(conn.user.jid == global.conn.user.jid ? '' : `\n□ *Soy un sub bot del:* wa.me/${global.conn.user.jid.split`@`[0]}`) || ''}
     
-□ *COMO INSTALAR EL BOT*
-https://youtu.be/O_j2q5xCg3A
+□ *CONSULTA SOBRE EL BOT*
+wa.me/51994156047
 
 ◉ _*INFO DEL USUARIO*_
 □ *🙌 Registrado:* ${user.registered === true ? '✅' : '❌ _#verificar_'}
@@ -95,7 +95,7 @@ https://youtu.be/O_j2q5xCg3A
 □ *🔰 Mi estado:* ${typeof user.miestado !== 'string' ? '_#miestado || Estado no asignado_' : '_Me siento ' + user.miestado + '_'}
 □ *🎖️ Nivel:* ${level}
 □ *💎 Diamantes:* ${limit}
-□ *👾 LoliCoins:* ${money}
+□ *👾 CharlieCoins:* ${money}
 □ *🪙 Tokens:* ${joincount}
 □ *🧰 Experiencia:* ${exp}
 □ *⚓ Rango:* ${role}
