@@ -7,17 +7,17 @@ await conn.sendButton(m.chat, ``, `https://paypal.me/OficialGD`, pp, [['𝙑𝙤
   */
  await conn.sendButton(m.chat, `*┏ ┅ ━━━━━━━━━ ┅ ━*
 *┇💖 𝙃𝙤𝙡𝙖!!*
-*┇ ᴛᴇ ᴀɢʀᴀᴅᴇᴢᴄᴏ, ᴘᴏʀ ᴀʏᴜᴅᴀʀᴍᴇ ʏ ᴘᴏʀ ᴜsᴀʀ ᴍɪ ʙᴏᴛ*
-*┇ ɢʀᴀᴄɪᴀs, ʏᴏ ɴᴏ ᴘɪᴅᴏ ᴅɪɴᴇʀᴏ.*
-*┇ ɴᴏ ᴛᴇɴɢᴏ ᴘᴀʏᴘᴀʟ. sᴏᴍᴏs ʜᴜᴍɪʟᴅᴇs,*
-*┇ ᴘᴇʀᴏ sɪ ǫᴜɪᴇʀᴇs ᴘᴜᴇᴅᴇ ᴀᴘᴏʏᴀʀ ᴀʟ ʙᴏᴛ.*
-*┇ sᴜsᴄʀɪʙɪᴇɴᴅᴏsᴇ ᴀʟ ᴄᴀɴᴀʟ ᴏғɪᴄɪᴀʟ ᴅᴇʟ ʙᴏᴛ*
-*┇ ᴘᴀʀᴀ ǫᴜᴇ ᴄᴀᴅᴀ ᴠᴇᴢ sᴏᴍᴏs ᴍᴀs ᴇʟ ʟᴀ ғᴀᴍɪʟɪᴀs ʟᴏʟɪʙᴏᴛ*
-*┇ ʏᴀ ᴄᴏɴ ᴇsᴏ sᴏʏ ғᴇʟɪᴢ.😄*
-*┇ ʏ ᴀᴘᴏʏᴀʀʟᴏs ᴄᴏɴ ᴜɴᴀ 🌟 ᴇʟ ɢɪᴛʜᴜʙ ᴏғɪᴄɪᴀʟ ᴅᴇʟ ʙᴏᴛ*
+*┇ BUENAS LE SALUDA EL CREADOR DEL BOT*
+*┇ SI USTEDES GUSTAN COLABORAR*
+*┇ SE LES AGRADECE USTEDES DEN*
+*┇ DE QUE NAZCA DE USTEDES .*
+*┇ IGUAL SE LES AGRADECE POR SU APOYO*
+*┇ ESPERO QUE MI BOT SEA DE SU AGRADO*
+*┇ BY CHARLIE <3*
+*┇ ESTAS SON LAS SIGUIENTE FORMAS Q ME PUEDEN APOYAR*
 *┃* ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-*┃* *ʏᴏᴜᴛᴜʙᴇ | sᴜsᴄʀɪʙɪʀᴛᴇ 🔕*
-*┃*  *${yt}*
+*┃* *YAPE *
+*┃*  **
 *┃* ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 *┃*  *ɢɪᴛʜᴜʙ 🌟*
 *┃*  *${md}*
