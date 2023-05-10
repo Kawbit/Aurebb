@@ -1,24 +1,24 @@
 #### 🚀 Versión actual: 1.4.5
 
 <p align="center"> 
-  <a href="https://github.com/elrebelde21"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=The-LoliBot-MD++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"
+  <a href="https://github.com/Emergit2006"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=The-LoliBot-MD++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"
 </p>
 
 <p align="center">
-<img src="https://telegra.ph/file/9854a169d0eaea13083c7.jpg" alt="The-LoliBot-MD" width="900"/>
+<img src="https://telegra.ph/file/9854a169d0eaea13083c7.jpg" alt="Charlie-V4" width="900"/>
 </p>
 
-<a href="#"><img title="The-LoliBot-MD" src="https://img.shields.io/badge/COMPATIBLE CON LA VERSIÓN MULTI DISPOSITIVOS DE WHATSAPP-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge">
+<a href="#"><img title="CharlieBot" src="https://img.shields.io/badge/COMPATIBLE CON LA VERSIÓN MULTI DISPOSITIVOS DE WHATSAPP-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge">
 
 
 ### 💫 𝗗𝘂𝗱𝗮 𝘀𝗼𝗯𝗿𝗲 𝗲𝗹 𝗯𝗼𝘁? 
 𝗖𝗼𝗻𝘁𝗮𝗰𝘁𝗮𝗺𝗲 ✨
 
-<a href="http://wa.me/5492266466080" target="blank"><img src="https://img.shields.io/badge/Creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
+<a href="http://wa.me/51994156047" target="blank"><img src="https://img.shields.io/badge/Creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
 
-<a href="http://wa.me/573183650526?text=.estado" target="blank"><img src="https://img.shields.io/badge/1️⃣_ 𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/527822175745?text=.estado" target="blank"><img src="https://img.shields.io/badge/2️⃣_ 𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/51982314915?text=.estado" target="blank"><img src="https://img.shields.io/badge/3️⃣_ 𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/1994156047?text=.estado" target="blank"><img src="https://img.shields.io/badge/1️⃣_ Charlie-V425D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/51994156047?text=.estado" target="blank"><img src="https://img.shields.io/badge/2️⃣_ Charlie-V425D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/51994156047?text=.estado" target="blank"><img src="https://img.shields.io/badge/3️⃣_ Charlie-V4-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 ### ❇️ 𝙂𝙍𝙐𝙋𝙊𝙎 𝙊𝙁𝙄𝘾𝙄𝘼𝙇𝙀𝙎
