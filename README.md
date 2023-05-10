@@ -230,16 +230,9 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 🔸𝐄𝐋 𝐁𝐎𝐓 𝐄𝐒 𝐂𝐎𝐌𝐏𝐀𝐑𝐓𝐈𝐁𝐋𝐄 𝐂𝐎𝐍 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐍𝐎𝐑𝐌𝐀𝐋 𝐎 𝐁𝐔𝐒𝐈𝐍𝐄𝐒𝐒
 🔸𝐀𝐓𝐄𝐍𝐓𝐎 𝐀 𝐋𝐀𝐒 𝐀𝐂𝐓𝐔𝐀𝐋𝐈𝐙𝐀𝐂𝐈𝐎𝐍𝐄𝐒 𝐐𝐔𝐄 𝐒𝐄 𝐇𝐀𝐆𝐀𝐍 𝐄𝐍 𝐄𝐒𝐓𝐄 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐈𝐎
 🔸𝐄𝐋 𝐀𝐃𝐃 𝐘 𝐄𝐋 𝐊𝐈𝐂𝐊 𝐏𝐔𝐄𝐃𝐄𝐍 𝐎𝐂𝐀𝐒𝐈𝐎𝐍𝐀𝐑 𝐐𝐔𝐄 𝐄𝐋 𝐍𝐔𝐌𝐄𝐑𝐎 𝐒𝐄 𝐕𝐀𝐘𝐀 𝐀 𝐒𝐎𝐏𝐎𝐑𝐓𝐄 𝐏𝐎𝐑 𝐄𝐋𝐋𝐎 𝐒𝐄 𝐀𝐂𝐓𝐈𝐕𝐀 𝐂𝐎𝐍 #𝐞𝐧𝐚𝐛𝐥𝐞 𝐫𝐞𝐬𝐭𝐫𝐢𝐜𝐭 
-🔸𝐓𝐡𝐞 𝐋𝐨𝐥𝐢𝐁𝐨𝐭-𝐌𝐃, 𝐍𝐎 𝐒𝐄 𝐇𝐀𝐂𝐄 𝐑𝐄𝐒𝐏𝐎𝐍𝐒𝐀𝐁𝐋𝐄 𝐃𝐄𝐋 𝐔𝐒𝐎, 𝐍𝐔𝐌𝐄𝐑𝐎𝐒, 𝐏𝐑𝐈𝐕𝐀𝐂𝐈𝐃𝐀𝐃 𝐘 𝐂𝐎𝐍𝐓𝐄𝐍𝐈𝐃𝐎 𝐌𝐀𝐍𝐃𝐀𝐃𝐎, 𝐔𝐒𝐀𝐃𝐎 𝐎 𝐆𝐄𝐒𝐓𝐈𝐎𝐍𝐀𝐃𝐎 𝐏𝐎𝐑 𝐔𝐒𝐓𝐄𝐃𝐄𝐒 𝐎 𝐄𝐋 𝐁𝐎𝐓.
+🔸Charlie, 𝐍𝐎 𝐒𝐄 𝐇𝐀𝐂𝐄 𝐑𝐄𝐒𝐏𝐎𝐍𝐒𝐀𝐁𝐋𝐄 𝐃𝐄𝐋 𝐔𝐒𝐎, 𝐍𝐔𝐌𝐄𝐑𝐎𝐒, 𝐏𝐑𝐈𝐕𝐀𝐂𝐈𝐃𝐀𝐃 𝐘 𝐂𝐎𝐍𝐓𝐄𝐍𝐈𝐃𝐎 𝐌𝐀𝐍𝐃𝐀𝐃𝐎, 𝐔𝐒𝐀𝐃𝐎 𝐎 𝐆𝐄𝐒𝐓𝐈𝐎𝐍𝐀𝐃𝐎 𝐏𝐎𝐑 𝐔𝐒𝐓𝐄𝐃𝐄𝐒 𝐎 𝐄𝐋 𝐁𝐎𝐓.
 ```
 ----
 ### 🌟 𝙀𝘿𝙄𝙏𝙊𝙍 𝙔 𝙋𝙍𝙊𝙋𝙄𝙀𝙏𝘼𝙍𝙄𝙊 𝘿𝙀𝙇 𝘽𝙊𝙏 
-<a href="https://github.com/elrebelde21"><img src="https://github.com/elrebelde21.png" width="300" height="300" alt="elrebelde21"/></a>
+<a href="https://github.com/Emergit2006"><img src="https://github.com/Emergit2006.png" width="300" height="300" alt="Emergit2006"/></a>
 
-### 🌟 𝘾𝙤𝙡𝙖𝙗𝙤𝙧𝙖𝙙𝙤𝙧𝙚𝙨
-[![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
-[![Yesenia57](https://github.com/Yesenia57.png?size=100)](https://github.com/Yesenia57) 
-[![Azami19](https://github.com/Azami19.png?size=100)](https://github.com/Azami19) 
-
-### 🌟 𝐀𝐠𝐫𝐚𝐜𝐢𝐦𝐢𝐞𝐧𝐭𝐨
-[![TheShadowBrokers1](https://github.com/BrunoSobrino.png?size=60)](https://github.com/BrunoSobrino) 
