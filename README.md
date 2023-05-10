@@ -4,9 +4,8 @@
   <a href="https://github.com/Emergit2006"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=CharlieBot++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"
 </p>
 
-<p align="center">
-<img src="https://telegra.ph/file/9854a169d0eaea13083c7.jpg" alt="Charlie-V4" width="900"/>
-</p>
+
+<a href="https://github.com/Emergit2006"><img src="https://github.com/Emergit2006.png" width="300" height="300" alt="Emergit2006"/></a>
 
 <a href="#"><img title="CharlieBot" src="https://img.shields.io/badge/COMPATIBLE CON LA VERSIÓN MULTI DISPOSITIVOS DE WHATSAPP-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge">
 
